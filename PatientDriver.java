@@ -190,7 +190,7 @@ public class PatientDriver
                     }
                     else
                     {
-                        System.out.println("Back to main manue.");
+                        System.out.println("Back to main menu.");
                     }
                     
                     //use scan in, if the user type yes, quit, else back to the main muen.
